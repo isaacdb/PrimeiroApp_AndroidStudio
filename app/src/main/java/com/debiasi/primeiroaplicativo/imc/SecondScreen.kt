@@ -55,7 +55,7 @@ class SecondScreen : AppCompatActivity() {
                 resultadoImc.text = "$imc Obesidade"
             }
             else if (imc>=40){
-                resultadoImc.text = "$imc Obesidade Grave"
+                resultadoImc.text = "$imc Obesidade grave"
             }
 
         }
