@@ -69,7 +69,7 @@
             android:id="@+id/go_permission"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="300dp"
+            android:layout_marginTop="100dp"
             android:layout_marginBottom="20dp"
             android:text="Verificação de idade"
             android:layout_gravity="center"
