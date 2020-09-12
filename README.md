@@ -6,7 +6,7 @@
 <p>Projeto desenvolvido com foco em por em prática os conhecimentos obitidos durante o curso Desenvolvimento WEB Completo, utilizando metodos de programação tanto em FrontEnd quanto em BackEnd.</p>
 
 ## 🎨 Layout
-
+<div style="display: flex">
 <img width="auto" src="https://github.com/isaacdb/PrimeiroApp_AndroidStudio/blob/master/ScreenShots/Inicio.PNG">
 
 <img width="auto" src="https://github.com/isaacdb/PrimeiroApp_AndroidStudio/blob/master/ScreenShots/Maior_Idade.PNG">
@@ -15,6 +15,7 @@
 
 <img width="auto" src="https://github.com/isaacdb/PrimeiroApp_AndroidStudio/blob/master/ScreenShots/calc.PNG">
 
+</div>
 
 
 ### 🛠 Tecnologias
