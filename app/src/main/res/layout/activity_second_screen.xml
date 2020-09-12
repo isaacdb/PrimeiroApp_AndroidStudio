@@ -52,6 +52,17 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Mantenha um estilo de vida saúdavel!"
+            android:textSize="20dp"
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/dicas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:text="Voce está a baixo do peso ideal,busque um profissional adequado para verificar se sua esta sendo afetada de alguma maneira."
+            android:textSize="20dp"
+            android:visibility="gone"
             android:textAlignment="center" />
 
         <Button
