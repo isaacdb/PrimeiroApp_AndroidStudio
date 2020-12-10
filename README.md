@@ -3,7 +3,7 @@
 <p align="center">Aplicativo para aula de Soluções Mobile utilizando Android Studio !</p>
 
 ## 💻 Sobre o projeto
-<p>Projeto desenvolvido com foco em por em prática os conhecimentos obitidos durante o curso Desenvolvimento WEB Completo, utilizando metodos de programação tanto em FrontEnd quanto em BackEnd.</p>
+<p>Aplicativo desenvolvido com foco em por em prática os conhecimentos obtidos durante as aulas de Soluções Mobile.</p>
 
 ## 🎨 Layout
 <div style="display: flex">
